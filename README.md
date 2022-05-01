@@ -19,8 +19,8 @@
   <img align="center" alt="Gust-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
 </div>
   
-  ##
-  
+ ### How to contact me?
+ This is easy, just select an option below🤞😉✌
 <div> 
   <a href="https://www.youtube.com/gustavomarti007" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/lxgustxl/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
