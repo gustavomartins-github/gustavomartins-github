@@ -48,3 +48,6 @@
   <a href="https://www.linkedin.com/in/gustavo-martins-089a14201/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <h5 target="_blank">🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺</h5>
 </div>
+
+ ## Trying to feed the 🐍
+ ![Snake animation](https://github.com/gustavomartins-github/gustavomartins-github/blob/output/github-contribution-grid-snake.svg)
