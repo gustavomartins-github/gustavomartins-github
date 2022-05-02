@@ -50,3 +50,6 @@
 </div>
 
  ## Trying to feed the 🐍
+ 
+ ![Snake animation](https://github.com/gustavomartins-github/gustavomartins-github/blob/output/github-contribution-grid-snake.svg)
+ 
