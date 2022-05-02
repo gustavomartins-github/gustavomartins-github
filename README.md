@@ -7,18 +7,24 @@
 - 📫 How to reach me: you can send an email to gustavo.ribeiro@aluno.unb.br or send a message at @lxgustxl in instagram
 - ⚡ Fun fact: I love horror movies
 
+##
+
+ ### My Skills
+
 <div align="center">
 <a href="https://github.com/gustavomartins-github">
-<img height="180em" width="400"src="https://github-readme-stats.vercel.app/api?username=gustavomartins-github&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="180em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavomartins-github&layout=compact&langs_count=7&theme=dark"/>
+<img height="180em" width="400"src="https://github-readme-stats.vercel.app/api?username=gustavomartins-github&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true"/>
+<img height="180em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavomartins-github&layout=compact&langs_count=7&theme=maroongold"/>
 </div>
 
- <div style="display: inline_block"><br>
+<div style="display: inline_block"><br>
   <img align="center" alt="Gust-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Gust-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gust-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
 </div>
-  
+ 
+ ##
+ 
  ### How to contact me?
  - This is easy, just select an option below🤞😉✌
  - A tip: by outlook I will see faster
