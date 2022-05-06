@@ -15,8 +15,8 @@
 
 <div align="center">
 <a href="https://github.com/gustavomartins-github">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavomartins-github&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true"/>
-<img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavomartins-github&layout=compact&langs_count=7&theme=maroongold"/>
+<img align = "center" height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavomartins-github&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true"/>
+<img align = "center" height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavomartins-github&layout=compact&langs_count=7&theme=maroongold"/>
 </div>
  
 <div align="center" style="display: inline_block"><br>
